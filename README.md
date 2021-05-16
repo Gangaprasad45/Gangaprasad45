@@ -2,8 +2,7 @@
 - 👀 I’m interested in Deep Leanring
 - 🌱 I’m currently learning B.Tech final year
 - 💞️ I’m looking to collaborate on ML/DL projects
-- 📫 How to reach me at https://inkedin.com/in/gangaprasad 
--chinmod-030123174 
+- 📫 How to reach me at https://inkedin.com/in/gangaprasad-chinmod-030123174 
 
 
 <!---
